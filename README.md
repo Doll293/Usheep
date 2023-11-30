@@ -1,6 +1,6 @@
 # Projet electif
 
-![GitHub stars](https://img.shields.io/github/stars/Doll/Osheep.svg?style=social&label>
+![GitHub Repo stars](https://img.shields.io/github/stars/Doll293/electif)
 ![GitHub License](https://img.shields.io/github/license/Doll293/electif)
 
 Ce programme est un jeu qui permet de compter le nombre moutons
