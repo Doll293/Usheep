@@ -1,21 +1,23 @@
-## Projet electif
+# Projet électif
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Doll293/electif)
 ![GitHub License](https://img.shields.io/github/license/Doll293/electif)
 
-Ce programme est un jeu qui permet de faire la somme des nombres
+Ce programme est un jeu qui permet de faire la somme des nombres.
 
+Pour démarrer le programme, suivez les étapes suivantes :
 
-Pour démarrez le programme, suiver les étapes suivantes :
+1. Utilisez la commande : `git clone https://github.com/Doll293/electif.git` pour cloner le dépôt.
 
-1 - utiliser : ``git clone https://github.com/Doll293/electif.git``
+2. Exécutez le programme situé dans le dossier `/src/Programme.c`. Vous pouvez le faire en utilisant un environnement de développement comme CLion, VSCode ou Msys2, ou en utilisant la ligne de commande.
 
-2 - executer le programme /src/Programme.c soit sur CLion, vscode, msys2...
-
-
+   Pour exécuter le programme en ligne de commande :
+   - Sur Ubuntu, assurez-vous que GCC est installé en utilisant la commande `sudo apt-get update -y && sudo apt-get install -y gcc`.
+   - Sur macOS, installez GCC en utilisant la commande `brew install gcc`.
+   - Sur Windows, installez Mingw en utilisant la commande `choco install mingw`.
 
 ## License
 
-This project is licensed under [MIT License](LICENSE).
+Ce projet est sous licence [MIT License](LICENSE).
 
 
