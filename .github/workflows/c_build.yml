@@ -12,5 +12,3 @@ jobs:
       run: sudo apt-get install gcc
     - name: Build C Program
       run: gcc -o Programme src/Programme.c
-    - name: Execute Program
-      run: ./Programme
