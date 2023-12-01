@@ -28,6 +28,3 @@ jobs:
 
       - name: Build et Execute le code C
         runs: gcc -o programme Programme.c && ./programme
-
-      publish:
-        needs: build
