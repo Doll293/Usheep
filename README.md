@@ -1,7 +1,6 @@
 # Projet électif
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Doll293/electif.svg?style=social&label=Star)
-
+![GitHub Repo stars](https://img.shields.io/github/stars/Doll293/electif?link=https%3A%2F%2Fgithub.com%2FDoll293%2Felectif%2Fstargazers)
 
 Ce programme est un jeu qui permet de faire la somme des nombres.
 
