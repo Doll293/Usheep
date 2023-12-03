@@ -1,7 +1,7 @@
 # Projet électif
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Doll293/electif)
-![GitHub License](https://img.shields.io/github/license/Doll293/electif)
+![GitHub Repo stars](https://img.shields.io/github/stars/Doll293/electif.svg?style=social&label=Star)
+
 
 Ce programme est un jeu qui permet de faire la somme des nombres.
 
